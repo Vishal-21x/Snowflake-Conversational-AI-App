@@ -13,13 +13,19 @@ What You’ll Learn:
 * How to build text-to-SQL applications using Cortex Analyst that answer questions from structured data in natural language
 * How to build a frontend for your RAG and Text to SQL applications using Streamlit
 
-# End to End RAG with Snowflake
+## End to End RAG with Snowflake
 <img width="1886" height="1041" alt="image" src="https://github.com/user-attachments/assets/0a21b414-6b8f-4463-a784-4c04d3c14d01" />
 
-# Evaluation of RAG
+## Evaluation of RAG
 <img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/286b1a73-7668-4ebe-8a6c-f4829a24d85d" />
 
-# Why should you trust LLM-as-a-judge
+## Why should you trust LLM-as-a-judge
 [Benchmarking LLM-as-a-Judge for the RAG Triad Metrics ](https://www.snowflake.com/en/engineering-blog/benchmarking-LLM-as-a-judge-RAG-triad-metrics/) | Dive deep into the inner workings of RAG Triad LLM Judge evaluators including prompts and benchmark results.
 
 [Eval-Guided Optimization of LLM Judges for the RAG Triad](https://www.snowflake.com/en/engineering-blog/eval-guided-optimization-llm-judges-rag-triad/) | Learn more about how LLM judges can be benchmarked and optimized against human evaluations.
+
+
+
+
+# My ChatBot
+<img width="1915" height="896" alt="image" src="https://github.com/user-attachments/assets/8912e060-6376-4f63-8a00-456289c57199" />
