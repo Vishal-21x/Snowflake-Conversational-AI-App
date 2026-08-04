@@ -1,5 +1,7 @@
 # Building Conversational AI Apps to Talk to your Data
 
+<img width="1915" height="896" alt="image" src="https://github.com/user-attachments/assets/8912e060-6376-4f63-8a00-456289c57199" />
+
 Welcome to the companion repo for _Building Conversational AI Apps to Talk to your Data_. This GitHub repo contains all of the code you need to to complete the course.
 
 In this course, you’ll learn how to build conversational AI applications that let users interact with their data, whether structured in tables or unstructured in documents, using natural language. Designed as the next step after our Intro to GenAI course, this course focuses on building practical applications with Snowflake Cortex, including Cortex Search for unstructured data and Cortex Analyst for structured data.
@@ -24,8 +26,8 @@ What You’ll Learn:
 
 [Eval-Guided Optimization of LLM Judges for the RAG Triad](https://www.snowflake.com/en/engineering-blog/eval-guided-optimization-llm-judges-rag-triad/) | Learn more about how LLM judges can be benchmarked and optimized against human evaluations.
 
+## Cortex Analyst 
+<img width="1917" height="975" alt="image" src="https://github.com/user-attachments/assets/1ad5b721-f3f0-4d5d-9e4a-925f528b0090" />
 
 
 
-# My ChatBot
-<img width="1915" height="896" alt="image" src="https://github.com/user-attachments/assets/8912e060-6376-4f63-8a00-456289c57199" />
