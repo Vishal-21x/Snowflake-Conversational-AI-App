@@ -29,3 +29,11 @@ From financial institutions analyzing earnings calls and contracts, to retailers
 ---
 
 **Built with:** Snowflake • Cortex Search • Cortex LLM • Vector Embeddings • Hybrid Search
+
+---
+
+### End to End RAG with Snowflake
+<img width="1886" height="1041" alt="image" src="https://github.com/user-attachments/assets/0a21b414-6b8f-4463-a784-4c04d3c14d01" />
+
+### Evaluation of RAG
+<img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/286b1a73-7668-4ebe-8a6c-f4829a24d85d" />
