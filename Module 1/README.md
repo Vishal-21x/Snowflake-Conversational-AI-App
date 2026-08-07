@@ -14,7 +14,7 @@ This project demonstrates how to harness 80% of the world's data—the unstructu
 - **LLM-Powered Generation** — Augment LLM responses with grounded, retrieval-based evidence for accurate, hallucination-free answers
 - **Quality Measurement** — Built-in evaluation metrics using LLM Judge to assess RAG performance and accuracy
 
-## 🔧 What You'll Build
+## 🔧 What I Build
 
 - End-to-end RAG pipeline using Cortex Search as the retriever in a Snowflake Notebook
 - Document parsing and intelligent chunking using recursive character splitting
