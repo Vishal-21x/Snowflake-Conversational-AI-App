@@ -33,7 +33,7 @@ A sophisticated multi-stage intelligent pipeline:
 
 **Result:** Accurate, human-readable queries with proper joins and contextual intelligence ✅
 
-## 🔧 What You'll Build
+## 🔧 What I Build
 
 - Text-to-SQL engine using Cortex Analyst API in a Snowflake Notebook
 - LLM-powered results interpretation to convert data back into natural language insights
