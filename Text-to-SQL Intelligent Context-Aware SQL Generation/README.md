@@ -46,3 +46,15 @@ Eliminates the tedious cycle of ad-hoc query requests, empowers business teams w
 ---
 
 **Built with:** Snowflake • Cortex Analyst API • LLMs • Streamlit
+
+---
+
+### Cortex Analyst 
+<img width="1917" height="975" alt="image" src="https://github.com/user-attachments/assets/1ad5b721-f3f0-4d5d-9e4a-925f528b0090" />
+
+---
+
+### Why should you trust LLM-as-a-judge
+[Benchmarking LLM-as-a-Judge for the RAG Triad Metrics ](https://www.snowflake.com/en/engineering-blog/benchmarking-LLM-as-a-judge-RAG-triad-metrics/) | Dive deep into the inner workings of RAG Triad LLM Judge evaluators including prompts and benchmark results.
+[Eval-Guided Optimization of LLM Judges for the RAG Triad](https://www.snowflake.com/en/engineering-blog/eval-guided-optimization-llm-judges-rag-triad/) | Learn more about how LLM judges can be benchmarked and optimized against human evaluations.
+
