@@ -55,6 +55,6 @@ Eliminates the tedious cycle of ad-hoc query requests, empowers business teams w
 ---
 
 ### Why should you trust LLM-as-a-judge
-[Benchmarking LLM-as-a-Judge for the RAG Triad Metrics ](https://www.snowflake.com/en/engineering-blog/benchmarking-LLM-as-a-judge-RAG-triad-metrics/) | Dive deep into the inner workings of RAG Triad LLM Judge evaluators including prompts and benchmark results.
+[Benchmarking LLM-as-a-Judge for the RAG Triad Metrics ](https://www.snowflake.com/en/engineering-blog/benchmarking-LLM-as-a-judge-RAG-triad-metrics/) | Dive deep into the inner workings of RAG Triad LLM Judge evaluators including prompts and benchmark results. <br>
 [Eval-Guided Optimization of LLM Judges for the RAG Triad](https://www.snowflake.com/en/engineering-blog/eval-guided-optimization-llm-judges-rag-triad/) | Learn more about how LLM judges can be benchmarked and optimized against human evaluations.
 
