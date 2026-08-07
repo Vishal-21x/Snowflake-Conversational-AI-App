@@ -43,8 +43,8 @@ Both projects leverage Snowflake's Cortex capabilities:
 
 ## 📖 Learn More
 
-- [City Council Community Assistant](./City council community assistant/README.md)
-- [Text-to-SQL Intelligent Context-Aware SQL Generation](./Text-to-SQL Intelligent Context-Aware SQL Generation/README.md)
+- [City Council Community Assistant](https://github.com/Vishal-21x/Snowflake-Conversational-AI-App/tree/main/City%20council%20community%20assistant)
+- [Text-to-SQL Intelligent Context-Aware SQL Generation](https://github.com/Vishal-21x/Snowflake-Conversational-AI-App/tree/main/Text-to-SQL%20Intelligent%20Context-Aware%20SQL%20Generation)
 
 
 
