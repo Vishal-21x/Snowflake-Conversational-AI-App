@@ -32,6 +32,9 @@ From financial institutions analyzing earnings calls and contracts, to retailers
 
 ---
 
+### Building Conversational AI Apps to Talk to your Data
+<img width="1915" height="896" alt="image" src="https://github.com/user-attachments/assets/8912e060-6376-4f63-8a00-456289c57199" />
+
 ### End to End RAG with Snowflake
 <img width="1886" height="1041" alt="image" src="https://github.com/user-attachments/assets/0a21b414-6b8f-4463-a784-4c04d3c14d01" />
 
