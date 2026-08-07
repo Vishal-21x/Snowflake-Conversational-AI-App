@@ -13,7 +13,7 @@ This project demonstrates how Large Language Models can revolutionize data acces
 - **Snowflake Integration** — Seamlessly query your structured data with schema understanding and contextual mapping
 - **User-Friendly Interface** — Built with Streamlit for an intuitive experience that democratizes data access
 
-## 🔧 What You'll Build
+## 🔧 What I Build
 
 - Text-to-SQL engine using Cortex Analyst API in a Snowflake Notebook
 - LLM-powered results interpretation to convert data back into natural language insights
